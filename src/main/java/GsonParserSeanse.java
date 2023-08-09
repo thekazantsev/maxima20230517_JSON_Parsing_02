@@ -10,7 +10,7 @@ import java.nio.charset.Charset;
 import java.util.Iterator;
 import java.util.Map;
 
-public class ParserSeanse {
+public class GsonParserSeanse {
     public static void main(String[] args) {
         String seanseJsonFile = "src/main/resources/Cinema.json";
         String charset = "UTF-8";

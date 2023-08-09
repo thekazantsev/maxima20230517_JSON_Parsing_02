@@ -6,7 +6,7 @@ import java.io.FileNotFoundException;
 import java.io.FileReader;
 import java.io.IOException;
 
-public class ParserPerson {
+public class GsonParserPerson {
     public static void main(String[] args) {
         String personJsonFile = "src/main/resources/Person.json";
 
