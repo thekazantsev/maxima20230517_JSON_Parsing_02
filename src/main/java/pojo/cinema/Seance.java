@@ -2,7 +2,7 @@ package pojo.cinema;
 
 import java.util.List;
 
-public class Seanse {
+public class Seance {
     public String name;
     public String locate;
     public String metro;
